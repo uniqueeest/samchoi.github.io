@@ -1,0 +1,172 @@
+body {
+    margin: 0;
+    text-align: center;
+    font-family: 'Unbounded', cursive;
+    color: #40514E;
+}
+
+h1 {
+    font-size: 5rem;
+    margin-top: 50px auto 0 auto;
+    font-family: 'Anton', sans-serif;
+    color:  #66BFBF;
+}
+
+h2 {
+    font-size: 2rem;
+    font-family: 'Unbounded', cursive;
+    color:  #66BFBF;
+    line-height: 1.5;
+}
+
+.small-title {
+    font-weight: normal;
+}
+
+h3 {
+    font-family: 'Unbounded', cursive;
+    color: #11999E;
+}
+
+p {
+    line-height: 2;
+}
+
+a {
+    color: #11999E;
+    font-family: 'Unbounded', cursive;
+    margin: 10px 20px;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #EAF6F6;
+}
+
+hr {
+    border-top: 7px dotted;
+    border-bottom: none;
+    width: 5%;
+    color: grey;
+}
+
+.top-container {
+    background-color: #EAF6F6;
+    position: relative;
+    padding-top: 100px;
+}
+
+.profile {
+    margin: 30px auto auto auto;
+    width: 50%;
+}
+
+.강백호 {
+    padding-top: 50px;
+    width: 200px;
+}
+
+.profile-description {
+    margin: auto auto 50px auto;
+    width: 35%;
+}
+
+.middle-container {
+    background-color: white;
+    margin-bottom: 100px;
+}
+
+.goalkeeper {
+    width: 25%;
+    margin-right: 30px;
+    float: left;
+}
+
+/*
+.GK-description {
+    clear: left;
+}
+
+.traveller-description {
+    clear: right;
+}
+*/
+
+.skills {
+    margin: 100px auto 0 auto;
+}
+
+.traveller {
+    width: 25%;
+    margin-left: 30px;
+    float: right;
+}
+
+.skill-row {
+    margin: 100px auto;
+    width: 50%;
+    text-align: left;
+}
+
+.bottom-container {
+    padding-top: 50px;
+    background-color: #66BFBF;
+}
+
+.pro {
+    text-decoration: underline;
+}
+
+.contact-me {
+    margin: 100px auto auto auto;
+    width: 50%;
+}
+
+.top-cloud {
+    position: absolute;
+    right: 500px;
+    top: 50px;
+}
+
+.bottom-cloud {
+    position: absolute;
+    left: 500px;
+}
+
+.btn {
+  background: #11cdd4;
+  background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+  background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #30e3cb;
+  background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+  text-decoration: none;
+}
+
+.contact-description {
+    margin: 0 auto 100px auto;
+}
+
+.my-link {
+    color: #EAF6F6;
+    font-size: 70%;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
